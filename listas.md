@@ -66,3 +66,19 @@ numeros.pop(3)
 numeros.remove(30)
 # remove o valor 30 da lista
 ```
+
+### Ordenar lista
+
+`sort()`: ordena a lista permanentemente
+> Pode ser passado um parâmentro para ordenar de forma reversa
+
+```
+numeros.sort()
+# ordena a lista
+
+numeros.sort(reverse=True)
+# ordena a lista na ordem reversa
+```
+
+
+
