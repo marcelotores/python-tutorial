@@ -69,7 +69,10 @@ numeros.remove(30)
 
 ### Ordenar lista
 
-`sort()`: ordena a lista permanentemente
+`sort()`: ordena a lista **permanentemente**
+> Pode ser passado um parâmentro para ordenar de forma reversa
+
+`sorted()`: ordena a lista **temporariamente**
 > Pode ser passado um parâmentro para ordenar de forma reversa
 
 ```
@@ -78,7 +81,10 @@ numeros.sort()
 
 numeros.sort(reverse=True)
 # ordena a lista na ordem reversa
+
+sorted(numeros)
 ```
+
 
 
 
