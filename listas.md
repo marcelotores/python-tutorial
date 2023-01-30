@@ -17,7 +17,7 @@ Também podemos utilizar a função list do próprio Python (built-in function):
 ```
 lista = list([3, 5, 7, 8])
 # colchetes obrigatórios
-``
+```
 ### Acessar ítens da lista
 
 Acesse os intens da lista pelo índice:
