@@ -85,11 +85,19 @@ numeros.sort(reverse=True)
 print(sorted(numeros))
 # apenas exibe de forma ordenada, mas preserva a lista original
 ```
+### Inverter a Lista
 `reverse()`: inverte uma lista. (não ordena em ordem alfabética inversa). Inverte de fato a lista (Permanentente)
 
 ```
 numeros.inverse()
 ```
+
+### Tamanho da Lista
+`len()`: devolve o tamanho da lista
+```
+print(len(numeros))
+```
+
 
 
 
