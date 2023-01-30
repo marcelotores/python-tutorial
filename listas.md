@@ -44,13 +44,18 @@ numeros.insert(2, 30)
 # acrescenta o valor 30 na posição 2 da lista
 ```
 ### Remover valores da lista
-Duas formas:
+
+**Duas formas:**
+
 del() : remove qualquer elemento pelo índice
+
 pop(indice) : remove qualquer elemento pelo índice, no entanto retorna o valor removido. 
+
 > O método `pop()` quando não especificado o índice, remove o último elemento da lista
+> 
 remove(): o método remove, remove pelo valor.
 
-Exemplos:
+**Exemplos:**
 ```
 del numeros[1]
 # remove o valor de índice 1
