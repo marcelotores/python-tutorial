@@ -47,13 +47,13 @@ numeros.insert(2, 30)
 
 **Duas formas:**
 
-del() : remove qualquer elemento pelo índice
+`del()` : remove qualquer elemento pelo índice
 
-pop(indice) : remove qualquer elemento pelo índice, no entanto retorna o valor removido. 
+`pop(indice)` : remove qualquer elemento pelo índice, no entanto retorna o valor removido. 
 
 > O método `pop()` quando não especificado o índice, remove o último elemento da lista
 > 
-remove(): o método remove, remove pelo valor.
+`remove()`: o método remove, remove pelo valor.
 
 **Exemplos:**
 ```
