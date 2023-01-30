@@ -12,6 +12,12 @@ Pode-se também definir uma lista vazia.
 ```
 letras = []
 ```
+
+Também podemos utilizar a função list do próprio Python (built-in function):
+```
+lista = list([3, 5, 7, 8])
+# colchetes obrigatórios
+``
 ### Acessar ítens da lista
 
 Acesse os intens da lista pelo índice:
@@ -104,6 +110,12 @@ print(len(numeros))
 for i in range(1, 5):
   print(i)
   # imprime de 1 a 4
+```
+Criando uma lista diretamente usando a função `list()`:
+
+```
+lista = list(range(1,10))
+# não precisa de colchete
 ```
 
 
