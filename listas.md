@@ -29,6 +29,7 @@ numeros[1] = 300
 ### Acrescentar elementos na lista
 
 **Duas formas:**
+
 `append(elemento)` : acrescenta o elemento ao final da lista
 
 `insert(indice, elemento)` : acrescenta em qualquer posição
