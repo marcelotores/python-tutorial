@@ -97,8 +97,14 @@ numeros.inverse()
 ```
 print(len(numeros))
 ```
+## Funções Interessantes
 
-
+`Range()`: A função range() de Python facilita gerar uma série de números
+```
+for i in range(1, 5):
+  print(i)
+  # imprime de 1 a 4
+```
 
 
 
