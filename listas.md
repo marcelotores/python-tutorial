@@ -106,8 +106,11 @@ print(len(numeros))
 ## Funções Interessantes
 
 `Range(inicio, parada, incremento)`: A função range() de Python facilita gerar uma série de números
+
 inicio -> opcional (padrão = 0)
+
 parada -> obrigatório
+
 incremento -> opcional (padrão = 1)
 
 
