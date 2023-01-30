@@ -87,7 +87,9 @@ print(sorted(numeros))
 ```
 `reverse()`: inverte uma lista. (não ordena em ordem alfabética inversa). Inverte de fato a lista (Permanentente)
 
-`numeros.inverse()`
+```
+numeros.inverse()
+```
 
 
 
