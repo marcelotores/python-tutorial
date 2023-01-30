@@ -82,8 +82,12 @@ numeros.sort()
 numeros.sort(reverse=True)
 # ordena a lista na ordem reversa
 
-sorted(numeros)
+print(sorted(numeros))
+# apenas exibe de forma ordenada, mas preserva a lista original
 ```
+`reverse()`: inverte uma lista. (não ordena em ordem alfabética inversa). Inverte de fato a lista (Permanentente)
+
+`numeros.inverse()`
 
 
 
