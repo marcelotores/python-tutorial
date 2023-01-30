@@ -2,6 +2,7 @@
 
 Uma lista é uma coleção de itens em uma ordem em particular.
 
+### Criar lista
 Para criar uma lista basta definir o nome da lista e conlchetes logo após:
 
 ```
@@ -11,6 +12,8 @@ Pode-se também definir uma lista vazia.
 ```
 letras = []
 ```
+### Acessar ítens da lista
+
 Acesse os intens da lista pelo índice:
 
 ```
@@ -18,18 +21,18 @@ valor = numeros[2]
 print(valor)
 ## imprime 5
 ```
-### Alterar valores da lista
+### Alterar elementos da lista
 Altere simplesmente atribuindo um novo valor:
 ```
 numeros[1] = 300
 ```
-### Acrescentar valores em uma lista
+### Acrescentar elementos na lista
 
-Duas formas:
-append(elemento) : acrescenta o elemento ao final da lista
-insert(indice, elemento) : acrescenta em qualquer posição
+**Duas formas:**
+`append(elemento)` : acrescenta o elemento ao final da lista
+`insert(indice, elemento)` : acrescenta em qualquer posição
 
-Exemplos:
+**Exemplos:**
 
 ```
 numeros.append(4) 
